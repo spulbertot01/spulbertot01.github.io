@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Popescu Vlad-Alexandru </span>
             from <span className="purple"> Valcea, Romania.</span>
-            <br />I am a junior Penetration Tester with 2 year experience in the field.
+            <br />I am a Penetration Tester with 2 year experience in the field with a passion for finding vulnerabilities!
             <br />
             <br />
             Apart from hacking, some other activities that I love to do!
