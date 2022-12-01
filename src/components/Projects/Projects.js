@@ -62,29 +62,7 @@ function Projects() {
               title="AcadNet"
               description="A 1 year ago I participated in a networking Olympiad where I ranked 16th in the country. I learned a lot of knowledge in the field of networking and I am preparing for the CCNA certification."
               ghLink=""
-              demoLink=""
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={suicide}
-              isBlog={false}
-              title=""
-              description="."
-              ghLink=""
-              // 
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-              //    <--------Please include a demo link here 
+              demoLink= 
             />
           </Col>
         </Row>
