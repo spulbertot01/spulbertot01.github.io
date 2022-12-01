@@ -26,7 +26,10 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Hands on experience"
-              description="I worked with many companies at the beginning and I helped them secure their systems.For most I dealt with web application but also with securing internet networks (Linux and Windows)."
+              description="I worked with many companies at the
+               beginning and I helped them secure their systems.
+               For most I dealt with web application but also with securing internet networks 
+               (Linux and Windows)."
               ghLink=""
               demoLink=""
             />
@@ -62,7 +65,7 @@ function Projects() {
               title="AcadNet"
               description="A 1 year ago I participated in a networking Olympiad where I ranked 16th in the country. I learned a lot of knowledge in the field of networking and I am preparing for the CCNA certification."
               ghLink=""
-              demoLink= 
+              demoLink=""
             />
           </Col>
         </Row>
